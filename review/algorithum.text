@@ -1,0 +1,19 @@
+step 1 :create 6 files addition.java subtraction.py multiplication.js divition.html day4.sh algorithum.text"
+
+step 2 : create review folder and copy four files addition.java subtraction.py multiplication.js divition.html in review folder
+
+step 3 : write algorithum in algorithum.text file 
+
+step 4 : move algorithum.text file in review folder 
+
+step 5 : write logic program in day4.sh for create folder addition subtraction multiplication division and move there respective files in that folder and Run 
+
+step 6 : move day4.sh in review 
+
+step 7 : create new folder main  
+
+step 8 : move all folders i.e. addition subtraction multiplication division in main folder
+
+step 9 : create backup folder 
+
+step 10 : move main folder in backup  

@@ -1,0 +1,19 @@
+step 1 :create 6 files using command "touch addition.java subtraction.py multiplication.js divition.html day4.sh algorithum.text"
+
+step 2 : use command "mkdir review" to create review folder and use command "cp addition.java subtraction.py multiplication.js divition.html review" to copy all files in review folder
+
+step 3 : write algorithum in text file using command "nano algorithum.text" 
+
+step 4 : move algorithum.text file in review folder for thi use command "mv algorithum.text review"
+
+step 5 : write logic program in day4.sh using command "nano day4.sh" for create folder addition subtraction multiplication division and move there respective files in that folder and Run using "bash day4.sh"
+
+step 6 : move day4.sh in review for this command "mc day4.sh review"
+
+step 7 : create new folder main using command "mkdir main" 
+
+step 8 : move all folders i.e. addition subtraction multiplication division in main folder using command "mv addition subtraction multiplication division main"
+
+step 9 : create backup folder using command "mkdir backup" and checked created or not using cd
+
+step 10 : move main folder in backup using command "mv main backup" and cheched using commands "ls" , "cd backup" , "cd main" now we see all files which are save in backup folder 

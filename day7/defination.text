@@ -1,0 +1,54 @@
+Array ::
+     Array is a container and it is used to store collection of items in  
+
+the form of Index Number.
+
+     Index Number will always start from 0.
+
+     Array Is a Index Based.
+
+
+
+Dictionary ::
+
+     Dictionary is a container and it is used to store collection of items in 
+
+the form of Key/Value Pair.
+
+     Key maintains Unique & Value Can be Duplicate.
+
+
+
+     [
+
+       {
+
+   "name" : "Nandha",
+
+   "company" : "Dell"
+
+        "location" : "Bangalore"
+
+       },
+
+       {      
+
+        "name" : "Prachi",
+
+        "company" : "Infosys"
+
+        "location" : "Chennai"
+
+       },
+
+       {      
+
+        "name" : "Rajesh",
+
+        "company" : "Walmart"
+
+        "location" : "Pune"
+
+       },
+
+     ]
